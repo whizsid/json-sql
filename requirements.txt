@@ -1,0 +1,3 @@
+wheel
+PyGObject==3.34.0
+jsonlint==0.1
